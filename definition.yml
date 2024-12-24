@@ -1,5 +1,5 @@
 name: ucp2-aic-patch
-display-name: "UCP2-Legacy: Patched AI Behaviour"
+display-name: "UCP2-Legacy: Patched AI Behaviour Applied"
 author: UCP-Team
 version: 2.15.1
 dependencies:
