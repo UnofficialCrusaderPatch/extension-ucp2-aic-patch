@@ -13,8 +13,3 @@ tags:
 - bugfixes
 family:
 - name: ucp2-legacy
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
